@@ -2,7 +2,6 @@
     <div class="contenedor">
         <div class="left">
             <div class="foto">
-                <img src="" alt="">
                 <img alt="Vue logo" src="../assets/Julian.jpeg">
             </div>
             <hr>
